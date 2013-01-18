@@ -1,0 +1,26 @@
+{
+  "name": "r",
+  "title": "R",
+  "description": "jQuery plugin for Regex",
+  "keywords": [
+    "regex"
+  ],
+  "version": "1.0.0",
+  "author": {
+    "name": "Rifat Nabi",
+    "email": "to.rifat@gmail.com",
+    "url": "http://www.VistaArc.com/"
+  },
+  "licenses": [
+    {
+      "type": "MPL-1.1",
+      "url": "https://github.com/torifat/r/blob/master/MPL-1.1.txt"
+    }
+  ],
+  "bugs": "https://github.com/torifat/r/issues",
+  "homepage": "http://torifat.github.com/r/",
+  "docs": "http://torifat.github.com/r/",
+  "dependencies": {
+    "jquery": ">=1.7"
+  }
+}
